@@ -1,4 +1,6 @@
 import "./App.css";
+
+// importing components
 import RestaurantsContainer from "./components/RestaurantsContainer.jsx";
 
 function App() {
